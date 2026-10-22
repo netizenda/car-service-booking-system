@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950">
+<style>
+text{font-family:Inter,Arial,Helvetica,sans-serif;fill:#0f172a}
+.h1{font-size:26px;font-weight:700}
+.h2{font-size:18px;font-weight:700}
+.h3{font-size:15px;font-weight:700}
+.body{font-size:13px}
+.small{font-size:11px;fill:#475569}
+.muted{fill:#64748b}
+.card{fill:#ffffff;stroke:#dbe3ee;stroke-width:1.5}
+.panel{fill:#f8fafc;stroke:#dbe3ee;stroke-width:1}
+.primary{fill:#1e3a8a;stroke:#1e3a8a}
+.good{fill:#ecfdf5;stroke:#86efac}
+.warn{fill:#fff7ed;stroke:#fdba74}
+.info{fill:#eff6ff;stroke:#93c5fd}
+.danger{fill:#fef2f2;stroke:#fca5a5}
+.sidebar{fill:#0f172a}
+.white{fill:white}
+.nav{font-size:13px;fill:#e2e8f0}
+.navactive{font-size:13px;fill:white;font-weight:700}
+</style>
+<rect width="1600" height="950" fill="#f8fafc"/><text x="800" y="45" text-anchor="middle" class="h1"><tspan x="800" dy="0">UX Prototype Overview</tspan></text><text x="800" y="75" text-anchor="middle" class="subtitle"><tspan x="800" dy="0">Car Service Booking and Management System</tspan></text><rect x="15" y="140" width="130" height="60" rx="12" class="card"/><text x="80" y="175" text-anchor="middle" class="small"><tspan x="80" dy="0">Login</tspan></text><rect x="195" y="140" width="130" height="60" rx="12" class="card"/><text x="260" y="175" text-anchor="middle" class="small"><tspan x="260" dy="0">Dashboard</tspan></text><rect x="375" y="140" width="130" height="60" rx="12" class="card"/><text x="440" y="175" text-anchor="middle" class="small"><tspan x="440" dy="0">My Cars</tspan></text><rect x="555" y="140" width="130" height="60" rx="12" class="card"/><text x="620" y="175" text-anchor="middle" class="small"><tspan x="620" dy="0">Services</tspan></text><rect x="735" y="140" width="130" height="60" rx="12" class="card"/><text x="800" y="175" text-anchor="middle" class="small"><tspan x="800" dy="0">Book Service</tspan></text><rect x="915" y="140" width="130" height="60" rx="12" class="card"/><text x="980" y="175" text-anchor="middle" class="small"><tspan x="980" dy="0">Time Slot</tspan></text><rect x="1095" y="140" width="130" height="60" rx="12" class="card"/><text x="1160" y="175" text-anchor="middle" class="small"><tspan x="1160" dy="0">Confirm</tspan></text><rect x="1275" y="140" width="130" height="60" rx="12" class="card"/><text x="1340" y="175" text-anchor="middle" class="small"><tspan x="1340" dy="0">My Bookings</tspan></text><line x1="145" y1="170" x2="195" y2="170" stroke="#64748b" stroke-width="2"/><line x1="325" y1="170" x2="375" y2="170" stroke="#64748b" stroke-width="2"/><line x1="505" y1="170" x2="555" y2="170" stroke="#64748b" stroke-width="2"/><line x1="685" y1="170" x2="735" y2="170" stroke="#64748b" stroke-width="2"/><line x1="865" y1="170" x2="915" y2="170" stroke="#64748b" stroke-width="2"/><line x1="1045" y1="170" x2="1095" y2="170" stroke="#64748b" stroke-width="2"/><line x1="1225" y1="170" x2="1275" y2="170" stroke="#64748b" stroke-width="2"/><text x="80" y="125" text-anchor="start" class="h2"><tspan x="80" dy="0">Customer flow</tspan></text><text x="80" y="360" text-anchor="start" class="h2"><tspan x="80" dy="0">Mechanic</tspan></text><rect x="80" y="390" width="320" height="120" rx="14" class="card"/><text x="240" y="455" text-anchor="middle" class="body"><tspan x="240" dy="0">Assigned Jobs → Start Service → Complete Service</tspan></text><text x="80" y="600" text-anchor="start" class="h2"><tspan x="80" dy="0">Admin</tspan></text><rect x="80" y="630" width="430" height="120" rx="14" class="card"/><text x="295" y="695" text-anchor="middle" class="body"><tspan x="295" dy="0">Dashboard → Bookings → Assign Mechanic → Manage Services</tspan></text></svg>
