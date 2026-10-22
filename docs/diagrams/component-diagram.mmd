@@ -1,0 +1,9 @@
+flowchart LR
+B[Web Browser<br/>Customer / Mechanic / Admin] -->|HTTPS / UI| F[Frontend<br/>React + TypeScript<br/>Tailwind CSS]
+F -->|REST / JSON| API[Backend API<br/>Go + Gin]
+API -->|JWT validation| AUTH[Authentication / Authorization<br/>JWT + Role checks]
+API -->|Models / queries| ORM[Data Access<br/>GORM]
+ORM -->|SQL| DB[(PostgreSQL)]
+D[Docker + Docker Compose] -. runs .-> F
+D -. runs .-> API
+D -. runs .-> DB

@@ -1,0 +1,28 @@
+flowchart LR
+C[Customer]
+M[Mechanic]
+A[Admin]
+subgraph S[Car Service Booking and Management System]
+U1((Register / Login))
+U2((Manage Vehicles))
+U3((View Services))
+U4((View Available Slots))
+U5((Create Booking))
+U6((View / Cancel / Reschedule Booking))
+U7((Track Booking Status))
+U8((View Service History))
+U9((View Assigned Jobs))
+U10((View Daily Schedule))
+U11((View Vehicle / Service Details))
+U12((Start Service))
+U13((Complete Service))
+U14((Add Service Comment))
+U15((Manage Services))
+U16((Manage Bookings))
+U17((Assign Mechanics))
+U18((Manage Users / Mechanics))
+U19((View Schedule / Statistics))
+end
+C --> U1 & U2 & U3 & U4 & U5 & U6 & U7 & U8
+M --> U1 & U9 & U10 & U11 & U12 & U13 & U14
+A --> U1 & U15 & U16 & U17 & U18 & U19
