@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+text{font-family:Inter,Arial,Helvetica,sans-serif;fill:#0f172a}
+.h1{font-size:26px;font-weight:700}
+.h2{font-size:18px;font-weight:700}
+.h3{font-size:15px;font-weight:700}
+.body{font-size:13px}
+.small{font-size:11px;fill:#475569}
+.muted{fill:#64748b}
+.card{fill:#ffffff;stroke:#dbe3ee;stroke-width:1.5}
+.panel{fill:#f8fafc;stroke:#dbe3ee;stroke-width:1}
+.primary{fill:#1e3a8a;stroke:#1e3a8a}
+.good{fill:#ecfdf5;stroke:#86efac}
+.warn{fill:#fff7ed;stroke:#fdba74}
+.info{fill:#eff6ff;stroke:#93c5fd}
+.danger{fill:#fef2f2;stroke:#fca5a5}
+.sidebar{fill:#0f172a}
+.white{fill:white}
+.nav{font-size:13px;fill:#e2e8f0}
+.navactive{font-size:13px;fill:white;font-weight:700}
+</style>
+<rect x="0" y="0" width="190" height="760" class="sidebar"/><text x="24" y="42" text-anchor="start" class="h2" fill="white"><tspan x="24" dy="0">CarService</tspan></text><rect x="15" y="70" width="160" height="38" rx="8" fill="#1e293b"/><text x="30" y="95" text-anchor="start" class="navactive"><tspan x="30" dy="0">Dashboard</tspan></text><text x="30" y="143" text-anchor="start" class="nav"><tspan x="30" dy="0">My Cars</tspan></text><text x="30" y="191" text-anchor="start" class="nav"><tspan x="30" dy="0">Services</tspan></text><text x="30" y="239" text-anchor="start" class="nav"><tspan x="30" dy="0">Book Service</tspan></text><text x="30" y="287" text-anchor="start" class="nav"><tspan x="30" dy="0">My Bookings</tspan></text><text x="30" y="335" text-anchor="start" class="nav"><tspan x="30" dy="0">Service History</tspan></text><text x="30" y="383" text-anchor="start" class="nav"><tspan x="30" dy="0">Logout</tspan></text><rect x="190" width="1010" height="760" fill="#f8fafc"/><text x="235" y="65" text-anchor="start" class="h1"><tspan x="235" dy="0">Customer Dashboard</tspan></text><text x="235" y="95" text-anchor="start" class="small"><tspan x="235" dy="0">Welcome, Customer</tspan></text><rect x="235" y="130" width="250" height="110" rx="14" class="card"/><text x="260" y="175" text-anchor="start" class="h1"><tspan x="260" dy="0">2</tspan></text><text x="260" y="210" text-anchor="start" class="small"><tspan x="260" dy="0">My Cars</tspan></text><rect x="510" y="130" width="250" height="110" rx="14" class="card"/><text x="535" y="175" text-anchor="start" class="h1"><tspan x="535" dy="0">1</tspan></text><text x="535" y="210" text-anchor="start" class="small"><tspan x="535" dy="0">Active Bookings</tspan></text><rect x="785" y="130" width="250" height="110" rx="14" class="card"/><text x="810" y="175" text-anchor="start" class="h1"><tspan x="810" dy="0">5</tspan></text><text x="810" y="210" text-anchor="start" class="small"><tspan x="810" dy="0">Completed Services</tspan></text><rect x="235" y="275" width="800" height="190" rx="14" class="card"/><text x="260" y="315" text-anchor="start" class="h2"><tspan x="260" dy="0">Upcoming Appointment</tspan></text><text x="260" y="355" text-anchor="start" class="h3"><tspan x="260" dy="0">Oil Change</tspan></text><text x="260" y="385" text-anchor="start" class="body"><tspan x="260" dy="0">Hyundai Sonata • 24 Oct 2026 • 14:00</tspan></text><rect x="835" y="338" width="135" height="34" rx="17" class="good"/><text x="902" y="360" text-anchor="middle" class="body"><tspan x="902" dy="0">Confirmed</tspan></text><rect x="260" y="410" width="140" height="38" rx="10" class="primary"/><text x="330.0" y="434.0" text-anchor="middle" class="white"><tspan x="330.0" dy="0">View Booking</tspan></text><text x="235" y="515" text-anchor="start" class="h2"><tspan x="235" dy="0">Quick Actions</tspan></text><rect x="235" y="545" width="180" height="44" rx="10" class="primary"/><text x="325.0" y="572.0" text-anchor="middle" class="white"><tspan x="325.0" dy="0">Book Service</tspan></text><rect x="435" y="545" width="180" height="44" rx="10" class="info"/><text x="525.0" y="572.0" text-anchor="middle" class="body"><tspan x="525.0" dy="0">Add Vehicle</tspan></text></svg>

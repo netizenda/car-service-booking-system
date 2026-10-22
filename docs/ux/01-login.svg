@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+text{font-family:Inter,Arial,Helvetica,sans-serif;fill:#0f172a}
+.h1{font-size:26px;font-weight:700}
+.h2{font-size:18px;font-weight:700}
+.h3{font-size:15px;font-weight:700}
+.body{font-size:13px}
+.small{font-size:11px;fill:#475569}
+.muted{fill:#64748b}
+.card{fill:#ffffff;stroke:#dbe3ee;stroke-width:1.5}
+.panel{fill:#f8fafc;stroke:#dbe3ee;stroke-width:1}
+.primary{fill:#1e3a8a;stroke:#1e3a8a}
+.good{fill:#ecfdf5;stroke:#86efac}
+.warn{fill:#fff7ed;stroke:#fdba74}
+.info{fill:#eff6ff;stroke:#93c5fd}
+.danger{fill:#fef2f2;stroke:#fca5a5}
+.sidebar{fill:#0f172a}
+.white{fill:white}
+.nav{font-size:13px;fill:#e2e8f0}
+.navactive{font-size:13px;fill:white;font-weight:700}
+</style>
+<rect width="1200" height="760" fill="#f8fafc"/><rect x="410" y="120" width="380" height="500" rx="20" class="card"/><text x="600" y="175" text-anchor="middle" class="h1"><tspan x="600" dy="0">CarService</tspan></text><text x="600" y="215" text-anchor="middle" class="h2"><tspan x="600" dy="0">Welcome back</tspan></text><text x="600" y="242" text-anchor="middle" class="small"><tspan x="600" dy="0">Sign in to manage your car service</tspan></text><text x="460" y="285" text-anchor="start" class="small"><tspan x="460" dy="0">Email</tspan></text><rect x="460" y="295" width="280" height="42" rx="9" class="card"/><text x="474" y="321" text-anchor="start" class="body"><tspan x="474" dy="0">customer@example.com</tspan></text><text x="460" y="365" text-anchor="start" class="small"><tspan x="460" dy="0">Password</tspan></text><rect x="460" y="375" width="280" height="42" rx="9" class="card"/><text x="474" y="401" text-anchor="start" class="body"><tspan x="474" dy="0">••••••••</tspan></text><rect x="460" y="455" width="280" height="46" rx="10" class="primary"/><text x="600.0" y="483.0" text-anchor="middle" class="white"><tspan x="600.0" dy="0">Login</tspan></text><text x="555" y="535" text-anchor="end" class="small"><tspan x="555" dy="0">Don&#x27;t have an account?</tspan></text><text x="565" y="535" text-anchor="start" class="body"><tspan x="565" dy="0">Create Account</tspan></text></svg>

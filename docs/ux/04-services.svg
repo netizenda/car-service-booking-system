@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+text{font-family:Inter,Arial,Helvetica,sans-serif;fill:#0f172a}
+.h1{font-size:26px;font-weight:700}
+.h2{font-size:18px;font-weight:700}
+.h3{font-size:15px;font-weight:700}
+.body{font-size:13px}
+.small{font-size:11px;fill:#475569}
+.muted{fill:#64748b}
+.card{fill:#ffffff;stroke:#dbe3ee;stroke-width:1.5}
+.panel{fill:#f8fafc;stroke:#dbe3ee;stroke-width:1}
+.primary{fill:#1e3a8a;stroke:#1e3a8a}
+.good{fill:#ecfdf5;stroke:#86efac}
+.warn{fill:#fff7ed;stroke:#fdba74}
+.info{fill:#eff6ff;stroke:#93c5fd}
+.danger{fill:#fef2f2;stroke:#fca5a5}
+.sidebar{fill:#0f172a}
+.white{fill:white}
+.nav{font-size:13px;fill:#e2e8f0}
+.navactive{font-size:13px;fill:white;font-weight:700}
+</style>
+<rect x="0" y="0" width="190" height="760" class="sidebar"/><text x="24" y="42" text-anchor="start" class="h2" fill="white"><tspan x="24" dy="0">CarService</tspan></text><text x="30" y="95" text-anchor="start" class="nav"><tspan x="30" dy="0">Dashboard</tspan></text><text x="30" y="143" text-anchor="start" class="nav"><tspan x="30" dy="0">My Cars</tspan></text><rect x="15" y="166" width="160" height="38" rx="8" fill="#1e293b"/><text x="30" y="191" text-anchor="start" class="navactive"><tspan x="30" dy="0">Services</tspan></text><text x="30" y="239" text-anchor="start" class="nav"><tspan x="30" dy="0">Book Service</tspan></text><text x="30" y="287" text-anchor="start" class="nav"><tspan x="30" dy="0">My Bookings</tspan></text><text x="30" y="335" text-anchor="start" class="nav"><tspan x="30" dy="0">Service History</tspan></text><text x="30" y="383" text-anchor="start" class="nav"><tspan x="30" dy="0">Logout</tspan></text><rect x="190" width="1010" height="760" fill="#f8fafc"/><text x="235" y="65" text-anchor="start" class="h1"><tspan x="235" dy="0">Services</tspan></text><text x="235" y="95" text-anchor="start" class="small"><tspan x="235" dy="0">Choose a service for your vehicle</tspan></text><rect x="235" y="145" width="280" height="250" rx="14" class="card"/><text x="255" y="185" text-anchor="start" class="h2"><tspan x="255" dy="0">Oil Change</tspan></text><text x="255" y="220" text-anchor="start" class="small"><tspan x="255" dy="0">Engine oil and filter replacement.</tspan></text><text x="255" y="280" text-anchor="start" class="body"><tspan x="255" dy="0">30–45 min</tspan></text><text x="255" y="315" text-anchor="start" class="h3"><tspan x="255" dy="0">15,000 KZT</tspan></text><rect x="255" y="335" width="240" height="40" rx="10" class="primary"/><text x="375.0" y="360.0" text-anchor="middle" class="white"><tspan x="375.0" dy="0">Book</tspan></text><rect x="535" y="145" width="280" height="250" rx="14" class="card"/><text x="555" y="185" text-anchor="start" class="h2"><tspan x="555" dy="0">Brake Inspection</tspan></text><text x="555" y="220" text-anchor="start" class="small"><tspan x="555" dy="0">Brake pads, discs and system inspection.</tspan></text><text x="555" y="280" text-anchor="start" class="body"><tspan x="555" dy="0">45 min</tspan></text><text x="555" y="315" text-anchor="start" class="h3"><tspan x="555" dy="0">10,000 KZT</tspan></text><rect x="555" y="335" width="240" height="40" rx="10" class="primary"/><text x="675.0" y="360.0" text-anchor="middle" class="white"><tspan x="675.0" dy="0">Book</tspan></text><rect x="835" y="145" width="280" height="250" rx="14" class="card"/><text x="855" y="185" text-anchor="start" class="h2"><tspan x="855" dy="0">Diagnostics</tspan></text><text x="855" y="220" text-anchor="start" class="small"><tspan x="855" dy="0">Computer diagnostics and system check.</tspan></text><text x="855" y="280" text-anchor="start" class="body"><tspan x="855" dy="0">60 min</tspan></text><text x="855" y="315" text-anchor="start" class="h3"><tspan x="855" dy="0">20,000 KZT</tspan></text><rect x="855" y="335" width="240" height="40" rx="10" class="primary"/><text x="975.0" y="360.0" text-anchor="middle" class="white"><tspan x="975.0" dy="0">Book</tspan></text></svg>
